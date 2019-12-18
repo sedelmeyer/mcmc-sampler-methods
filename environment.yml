@@ -12,3 +12,4 @@ dependencies:
 - pymc3=3.8
 - jupyter
 - tqdm
+- pylint
