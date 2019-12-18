@@ -1,3 +1,4 @@
+name: tempering-annealing
 channels:
 - defaults
 - conda-forge
@@ -8,4 +9,6 @@ dependencies:
 - scipy
 - seaborn
 - scikit-learn
-- pymc3
+- pymc3=3.8
+- jupyter
+- tqdm
